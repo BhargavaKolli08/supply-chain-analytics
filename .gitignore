@@ -1,0 +1,16 @@
+# Snowflake / credentials
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Tableau temp
+*.log
+
+# AWS credentials
+.aws/

@@ -15,5 +15,5 @@ __pycache__/
 # AWS credentials
 .aws/
 
-secrets/
+credentials/
 *.env
